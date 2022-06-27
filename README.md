@@ -16,7 +16,10 @@
 </h3>
 
 <h1 align="left" id="acessar">👆 Como acessar</h1>
-Para acessar a aplicação bastar clicar no seguinte link: https://wallissonmart.github.io/api-filmes
+Para acessar a aplicação bastar seguir os seguintes passos:
+-
+-
+-
 
 <h1 align="left" id="funcionalidades">⚙️ Funcionalidades</h1>
 
