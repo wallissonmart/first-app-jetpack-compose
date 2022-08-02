@@ -16,7 +16,7 @@
 </h3>
 
 <h1 align="left" id="acessar">👆 Como acessar</h1>
-Para acessar a aplicação bastar seguir os seguintes passos: ---
+Para acessar a aplicação basta seguir os seguintes passos: ---
 
 <h1 align="left" id="funcionalidades">⚙️ Funcionalidades</h1>
 
